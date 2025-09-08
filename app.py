@@ -16,7 +16,7 @@ st.set_page_config(
 
 # Load API token
 load_dotenv()
-hf_token = os.getenv('hugging_key') or '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'
+hf_token = os.getenv('hugging_key')
 
 # --- 2. SESSION STATE INITIALIZATION ---
 
