@@ -1,0 +1,15 @@
+streamlit
+huggingface_hub
+python-dotenv
+gtts
+transformers
+torch
+nltk
+transformers[torch]
+accelerate>=0.26.0
+watchdog
+
+#streamlit 
+#transformers 
+#torch 
+#nltk
